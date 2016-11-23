@@ -4,6 +4,7 @@
  *@NScriptName client_script_demo
 
  this is a change
+ this is a change for the master
  */
 define(['N/record'],
     function(record) {
