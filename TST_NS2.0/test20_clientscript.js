@@ -2,6 +2,8 @@
  *@NApiVersion 2.x
  *@NScriptType ClientScript
  *@NScriptName client_script_demo
+
+ this is a change
  */
 define(['N/record'],
     function(record) {
