@@ -2,9 +2,14 @@
  *@NApiVersion 2.x
  *@NScriptType ClientScript
  *@NScriptName client_script_demo
+<<<<<<< HEAD
  
  branch test
  branch test 2
+=======
+
+ this is a change
+>>>>>>> refs/remotes/origin/master
  */
 define(['N/record'],
     function(record) {
