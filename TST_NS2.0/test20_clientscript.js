@@ -4,6 +4,7 @@
  *@NScriptName client_script_demo
  
  branch test
+ branch test 2
  */
 define(['N/record'],
     function(record) {
